@@ -1,2 +1,2 @@
-# PDD-FreeMark
-PDD-FreeMark: Proactive Deepfake Detection via Training-Free Robust Watermarking and Identity-Aware Hashing
+# TFPDD
+TFPDD: A New Robust Training-free Proactive Deepfake Detection Scheme Using Watermarking and Identity-aware Hashing
